@@ -4,17 +4,31 @@
   {% include head.html %}
 
   <body>
+    <div id="page" class="page">
+      {% include header.html %}
 
-    {% include header.html %}
+      {% include title.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+      {% include intro.html %}
 
-    {% include footer.html %}
+      {% include trustred.html %}
 
+      {% include features.html %}
+
+      {% include list-tools.html %}
+
+      {% include use-cases.html %}
+
+      {% include contact.html %}
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <!--{{ content }}-->
+        </div>
+      </main>
+
+      {% include footer.html %}
+    </div>
   </body>
 
 </html>
