@@ -9,7 +9,7 @@ jQuery(document).ready(function($){
 
         $('.mailchimp').ajaxChimp({
             callback: mailchimpCallback,
-            url: "http://pixfort.us10.list-manage.com/subscribe/post?u=aeee190b52c1942e89defdb3e&amp;id=c9ca7e0189" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
+            url: "//swiftline.us16.list-manage.com/subscribe/post?u=ad3f5e93318f20b54625d1499&amp;id=e2c8c6f3b9" 
         });
 
         function mailchimpCallback(resp) {
