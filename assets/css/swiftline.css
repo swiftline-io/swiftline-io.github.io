@@ -4,3 +4,14 @@
 .title_background_text{
 	color: #FFF;
 }
+
+.t1_style1 {
+    font-weight: 500;
+    color: #FFF;
+    font-size: 28px;
+    line-height: 100%;
+}
+
+.prueba{
+	background: rgba(21,21,21,1);
+}
