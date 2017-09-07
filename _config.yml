@@ -1,13 +1,13 @@
-title: Swiftline | DevOps
+title: Swiftline | DevOps and AWS Consulting Services
 email: info@swiftline.io
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://swiftline.io" 
-twitter_username: swiftlineio
-github_username:  swiftlineio
+url: "https://www.swiftline.io" 
+twitter_username: swiftline_io
+github_username:  swiftline-io
 
 # Build settings
 markdown: kramdown
