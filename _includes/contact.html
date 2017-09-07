@@ -1,4 +1,4 @@
-<div class="extra_padding pix_builder_bg dark form_2_bg" id="section_normal_4_1" style="outline-offset: -3px; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(&quot;http://localhost:4000/assets/images/bg-form2.jpg&quot;); background-color: rgb(51, 51, 51); padding-top: 120px; padding-bottom: 120px; box-shadow: none; background-size: cover; background-attachment: scroll, fixed; background-repeat: repeat, no-repeat;">
+<div class="extra_padding pix_builder_bg dark form_2_bg" id="section_normal_4_1" style="outline-offset: -3px; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(&quot;/assets/images/bg-form2.jpg&quot;); background-color: rgb(51, 51, 51); padding-top: 120px; padding-bottom: 120px; box-shadow: none; background-size: cover; background-attachment: scroll, fixed; background-repeat: repeat, no-repeat;">
 
   <div class="container">
     <div class="sixteen columns">
@@ -11,17 +11,19 @@
               <textarea rows="5" name="message" class="text_area pix_text" placeholder="Write your Message Here"></textarea>
               <span class="send_btn">
                 <button type="submit" class="submit_btn green_1_bg pix_text" id="submit_btn_6">
-                    <span class="editContent">Send Information</span>
+                    <span class="editContent">{{ page.contact_buttom_text }}</span>
                 </button>
               </span>
-              <span class="pix_text"><span class="pix_note editContent" style=""></span></span>
+              <span class="pix_text">
+                  <span class="pix_note editContent" style=""></span>
+              </span>
             </form>
             <div class="clearfix"></div>
         </div>
       </div>
       <div class="ten columns omega padding_top_30">
-        <p class="big_title editContent "><strong>Be Productive By Focusing In Your Business Product </strong></p>
-        <p class="normal_text normal_gray editContent">Swiftline is an on demand DevOps team. We apply DevOps best practices, infraestructure in the cloud and technologies to allow business optimize their development product processes.</p>
+        <p class="big_title editContent "><strong>{{ page.contact_header_text }}</strong></p>
+        <p class="normal_text normal_gray editContent">{{ page.contact_content }}</p>
       </div>
     </div>
   </div>
