@@ -29,3 +29,8 @@
 .hidden_box{
 	visibility: hidden;
 }
+
+.container .twos-thirds.column{
+	padding-left: 30px;
+	width: 400px;
+}
