@@ -12,6 +12,20 @@
     line-height: 100%;
 }
 
-.prueba{
+.degradado{
 	background: rgba(21,21,21,1);
+}
+
+.contadores{
+	background: rgba(23,20,20,1);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	padding-bottom:70px;
+	border-bottom:3px solid rgba(23,20,20,1);
+}
+
+.hidden_box{
+	visibility: hidden;
 }
