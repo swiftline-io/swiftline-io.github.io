@@ -13,9 +13,12 @@
 }
 
 .degradado{
-	background: rgba(21,21,21,1);
+	background: rgba(35,34,34,1);
 }
 
+.degradado1{
+	background: rgba(78,74,74,1);
+}
 .contadores{
 	background: rgba(23,20,20,1);
 	-webkit-background-size:cover;
