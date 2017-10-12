@@ -5,7 +5,7 @@ header_buttom: Give Us a Try
 header_note: 
 header_description: "Enable your company to more rapidly and reliably build and deliver products using the Cloud (AWS) and DevOps practices. We simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance."
 
-content_title: "What it's DevOps?"
+content_title: "Move rapidly and reliably"
 content_text: "DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market."
 
 

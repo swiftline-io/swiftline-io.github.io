@@ -2,3 +2,4 @@ _site
 .sass-cache
 *.map
 .#*
+Gemfile.lock

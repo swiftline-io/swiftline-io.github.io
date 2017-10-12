@@ -1,0 +1,39 @@
+.title_background{
+	background: #151515;
+}
+.title_background_text{
+	color: #FFF;
+}
+
+.t1_style1 {
+    font-weight: 500;
+    color: #FFF;
+    font-size: 28px;
+    line-height: 100%;
+}
+
+.degradado{
+	background: rgba(35,34,34,1);
+}
+
+.degradado1{
+	background: rgba(78,74,74,1);
+}
+.contadores{
+	background: rgba(23,20,20,1);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	padding-bottom:70px;
+	border-bottom:3px solid rgba(23,20,20,1);
+}
+
+.hidden_box{
+	visibility: hidden;
+}
+
+.container .twos-thirds.column{
+	padding-left: 30px;
+	width: 400px;
+}
